@@ -1,22 +1,63 @@
-.. life documentation master file, created by
-   sphinx-quickstart on Sun Mar  2 22:41:22 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+|
+|
+|
+|
+|
+|
 
-Welcome to life's documentation!
-================================
+======================
+海阔凭鱼跃
+======================
 
-Contents:
+======================
+天高任鸟飞
+======================
+
+|
+|
+|
+|
+|
+|
+
+序
+====
+.. toctree::
+   :maxdepth: 2
+
+   cntent/forward
+
+
+第一部分
+=========
+
+年年岁岁花相似，岁岁年年人不同。
+
+
+.. toctree::
+   :maxdepth: 2
+   
+
+   content/before_eight
+   content/nine
+
+第二部分
+=========
+
+千金易得，知己难求
+
 
 .. toctree::
    :maxdepth: 2
 
 
+   content/guys1
+   content/guys2
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+
+
+
+
 
